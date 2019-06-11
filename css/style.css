@@ -65,3 +65,41 @@ span{
 	height: 30px;
 	margin: 35px;
 }
+.logo1{
+	width: 100px;
+}
+.divigation-box{
+	background: #3D58A6;
+	width: 56px;
+	height: 56px;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+div{
+	color: #fff;
+	font-size: 53px;
+}
+.paragrap-may{
+	font-size: 22px;
+	margin-top: 8px;
+	margin-left: 30px;
+	color: #3D58A6;
+}
+.article-p{
+	vertical-align: top;
+	margin-top: 22px;
+	margin-left: 40px;
+	width: 930px;
+	height: 346px;
+}
+.article-img{
+	vertical-align: top;
+	margin-top: 22px;
+	margin-left: 30px;
+}
+.article-h3{
+	font-size: 20px;
+	margin-top: 28px;
+	margin-bottom: 22px;
+	margin-left: 30px;
+}
