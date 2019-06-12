@@ -126,24 +126,31 @@ div{
 	margin-top: 25px;
 }
 .text-h4{
+	margin-bottom: 6px;
 	font-size: 20px;
-	padding-top: 55px;
-	padding-left: 97px;
 	color: #3D58A6;
-}
-.adress-p{
-	vertical-align: top;
-font-size: 16px;
-padding-left: 97px;
-color: #808080;
-}
-.divigation-map{
-	width: 875px;
-	margin-left: 405px;
 }
 .map{
 	vertical-align: top;
 	width: 875px;
-	margin-right: 55px;
 	padding-bottom: 55px;
+	padding-left: 55px;
+}
+.footer-footer{
+	margin-top: 30px;
+	margin-left: 48px;
+}
+.map-box{
+	vertical-align: top;
+	font-size: 20px;
+	color: #808080;
+	padding-top: 55px;
+	padding-left: 98px;
+}
+.mapbox-1{
+	font-size: 16px;
+	color: #808080;
+}
+b{
+	color: #000000;
 }
